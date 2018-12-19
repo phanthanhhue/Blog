@@ -11,14 +11,14 @@
 ## Questions
 
 	1. What are we building? We are building a personal site. A place where we can blog, share examples of our work, and have people contact us.
-	2. Who are we building it for? We are building it for ourselves, but also the community. Sharing what we are learning by blogging is a great way to learn for ourselves, but we teach others in the process. Show potential employers that we know what we are doing. 
+	2. Who are we building it for? We are building it for ourselves, but also the community. Sharing what we are learning by blogging is a great way to learn for ourselves, but we teach others in the process. Show potential employers that we know what we are doing.
 	3. What features do we want to have?
 		- Posts
 			- Create / Edit / Destroy
 			- Markdown
 			- Syntax highlighting
 			- Comments (Disqus)
-		- Projects 
+		- Projects
 			- Create / Edit / Destroy
 		- Contact
 			- Contact form
@@ -32,9 +32,9 @@
 	- As a user, i want to be able to highlight the various syntax of code blocks that I share on my blog.
 	- As a user, I want to show the visitors an potential employers examples of my work, of stuff I've built.
 	- As a user, I want to be able to have visitors contact me through a form on my site.
-	- As a user, I want visitors to br able to leave comments on my posts.
+	- As a user, I want visitors to be able to leave comments on my posts.
 
-## Modeling ouur Data
+## Modeling our Data
 
 	**Post**
 		title:string
@@ -59,4 +59,3 @@
 	- Projects#index
 	- Projects#show
 	- Contact
-
